@@ -1,0 +1,27 @@
+.wrapper{
+    text-align: center;
+    border: 1px solid crimson;
+}
+
+.wrapper__title{
+  color: darkslategray; 
+}
+
+.wrapper__subtitle{
+    color: darkslategrey;
+    font-size: 90px;
+}
+.wrapper__btn{
+    background: rgb(172, 230, 73);
+    outline: none;
+    border: none;
+    box-shadow: 0 0 0 5px rgb(188, 216, 6);
+    cursor: pointer;
+}
+
+.wrapper__btn:hover{
+    transform: translateX(-10px);
+}
+
+
+ 
